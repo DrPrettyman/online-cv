@@ -4,8 +4,9 @@
         "company": "Blink SEO",
         "companyUrl": "https://blinkseo.co.uk/pages/macaroni",
         "logoUrl": "/online-cv/images/blink_seo_logo.jpeg",
+        "startDate": "2021-11",
         "endDate": "2024-12",
-        "description": "Blink helps ecommerce SMEs to increase their organic traffic. I was brought onto the team with the breif to \"improve processes using data\". I began by doing various one-off data analysis projects but quickly realised the need for a database, and software to automatically fetch data from various APIs (Google Analytics, Shopify, etc.), as well as a web scraper. With these set up, I began creating dashboards, then interactive apps using Retool, and now we have Macaroni Software.",
+        "description": "Blink helps e-commerce SMEs to increase their organic traffic. I was brought onto the team with the breif to \"improve processes using data\". I began by doing various one-off data analysis projects but quickly realised the need for a database, and software to automatically fetch data from various APIs (Google Analytics, Shopify, etc.), as well as a web scraper. With these set up, I began creating dashboards, then interactive apps using Retool, and now we have Macaroni Software.",
         "achievements": [
             [
                 {"text": "Full stack development of "},
@@ -34,7 +35,7 @@
         "role": "Data Science Researcher",
         "company": "National Physical Laboratory",
         "companyUrl": "https://www.npl.co.uk",
-        "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHHwmQiEqzvPw/company-logo_100_100/company-logo_100_100/0/1670336019590/national_physical_laboratory_logo?e=1740614400&v=beta&t=1TqPFOOwulpMgX5L4WLKAIK7OhUp2_Jpk2OPf8-CR98",
+        "logoUrl": "/online-cv/images/npl_logo.jpeg",
         "startDate": "2015-09",
         "endDate": "2021-02",
         "description": "NPL provides world-leading measurement science, engineering and technology. As a doctoral student I was lucky to secure this industrial collaboration, supervised by Dr. Valerie Livina.",
@@ -51,7 +52,7 @@
         "role": "Associate Lecturer",
         "company": "Sheffield Hallam University",
         "companyUrl": "https://www.shu.ac.uk", 
-        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFZNIao4vU6Bw/company-logo_100_100/company-logo_100_100/0/1631312183748?e=1740614400&v=beta&t=JllpZySA9YWShLcya0thrtO5cfqukKSQZn0LmZ1I60o",
+        "logoUrl": "/online-cv/images/shu_logo.jpeg",
         "startDate": "2017-09",
         "endDate": "2020-02",
         "achievements": [
