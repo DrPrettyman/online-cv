@@ -49,7 +49,7 @@ const InteractiveDashboard: React.FC = () => {
           
           <div className="rounded-lg overflow-hidden shadow-2xl mb-6 w-full">
             <img 
-              src="/images/headshot.jpg" 
+              src="/online-cv/images/headshot.jpg" 
               alt="Joshua Prettyman looking handsome" 
               className="object-cover w-full h-full"
             />
