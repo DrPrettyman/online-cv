@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 import EducationTimeline, { EducationPeriod } from './EducationTimeline';
 import EmploymentHistory, { Job } from './EmploymentHistory';
@@ -52,14 +51,6 @@ const CarouselSection = () => {
     { title: "Employment History", component: <MyEmploymentHistory /> },
     { title: "Academic Background", component: <MyEducationHistory /> }
   ];
-
-  const nextSlide = () => {
-    setCurrentIndex((prev) => (prev + 1) % sections.length);
-  };
-
-  const prevSlide = () => {
-    setCurrentIndex((prev) => (prev - 1 + sections.length) % sections.length);
-  };
 
   return (
     <div className="flex-1 pl-[25%]">

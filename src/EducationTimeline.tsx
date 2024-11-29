@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Award, MapPin, BookOpen, Sparkles } from 'lucide-react';
+import { Award, BookOpen, Sparkles } from 'lucide-react';
 import renderRichText, { DetailItem } from './richText';
 
 interface Publication {
