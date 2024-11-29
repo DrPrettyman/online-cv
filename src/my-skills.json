@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Data & ML",
+        "iconName": "chart",
+        "skills": [
+            "Pandas", 
+            "TensorFlow", 
+            "ScikitLearn",
+            "NLP",
+            "Statistics"
+        ],
+        "moreDetails": [
+            "Regular use of ScikitLearn, Pandas, NTLK, other python libraries.",
+            "Data viz in various contexts: Bussiness dashboards (Plotly, Retool, Looker), Academic presentations (MatLab, TeX, xmgrace, matplotlib), Reports, Lectures.",
+            "CodeCademy pro Data Scientist course including ScikitLearn, TensorFlow, NLP.",
+            "Extensive experience with SQL for data analysis and management.",
+            "Academic grounding in Linear Algebra, Bayesian Analysis, Scientific Programming.",
+            "Doctoral thesis develops spectral analysis methods for detecting correlations in multi-dimensional time series and builds stochastic models to test hypotheses."
+        ]
+    },
+    {
+        "name": "Programming",
+        "iconName": "code",
+        "skills": [
+            "Python", 
+            "JavaScript", 
+            "SQL", 
+            "PostgreSQL",
+            "Google Cloud Platform",
+            "Matlab",
+            "C++"
+        ],
+        "moreDetails": [
+            "Daily use of Python for software devolopment, data analysis and data science.",
+            "Regular use of shell scripting and unix commands.",
+            "Extensive experince with Big Query SQL and PostgreSQL.",
+            "Experience with various Google Cloud Platform products.",
+            [
+                {"text": "With "},
+                {"text": "Macaroni Software", "link": "https://www.macaroni.works"},
+                {"text": " I have built a whole system from scratch with a python backend running in a GCP Compute Engine instance, a Big Query database and frontend in Retool."}
+            ],
+            [
+                {"text": "A key component in Macaroni, I published "},
+                {"text": "PyGoogalytics", "link": "https://pypi.org/project/pygoogalytics/"},
+                {"text": " as an open-source package using PyPI. This wraps the Google Analytics and Google Seach Console APIs, allowing SEO professionals to easily retrieve data as a Pandas dataframe."}
+            ],
+            "Experience using Javascript and Typescript with React.",
+            "My Ph.D. work used MatLab for data analysis, implementing algorithms, and modelling.",
+            "I have previous experience using C++."
+        ]
+    }
+]

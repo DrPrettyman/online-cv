@@ -1,0 +1,64 @@
+[
+    {
+        "role": "Data Scientist",
+        "company": "Blink SEO",
+        "companyUrl": "https://blinkseo.co.uk/pages/macaroni",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGXzxjV4sqgbw/company-logo_100_100/company-logo_100_100/0/1630529583461/blink_seo_logo?e=1740614400&v=beta&t=4drHAN0S5amR4tAYncxslaXeLDj0qHzC_mOsvIJ6Cmk",
+        "startDate": "2021-11",
+        "endDate": "2024-12",
+        "description": "Blink helps ecommerce SMEs to increase their organic traffic. I was brought onto the team with the breif to \"improve processes using data\". I began by doing various one-off data analysis projects but quickly realised the need for a database, and software to automatically fetch data from various APIs (Google Analytics, Shopify, etc.), as well as a web scraper. With these set up, I began creating dashboards, then interactive apps using Retool, and now we have Macaroni Software.",
+        "achievements": [
+            [
+                {"text": "Full stack development of "},
+                {"text": "Macaroni Software", "link": "https://www.macaroni.works"},
+                {"text": ", a SaaS product aimed at SEO agencies boasting a "},
+                {"text": "20x increase in productivity", "link": "https://blinkseo.co.uk/blogs/case-studies/how-macaroni-made-us-20x-more-productive"},
+                {"text": " by using a data-driven approach to mapping a site and suggesting improvements."}
+            ],
+            "For Macaroni I implemented clustering algorithms on text data to identify keyword mapping opportunities.",
+            "I've also used clustering algorithms in other contexts, as well as classification, NLP, and time series analysis.",
+            "I wrote various API wrappers to access client data from sources including Google Analytics, Search Console and Shopify.",
+            "Macaroni is written in python and runs on a GCP Compute Engine instance which I set up and maintained.",
+            "I created a Big Query database to store and process client data.",
+            "I also created a job queue system (PostgreSQL) to trigger backend processes.",
+            [
+                {"text": "Macaroni allows the SEO team to deliver a whole year's work "},
+                {"text": "in a single month!", "link": "https://www.linkedin.com/posts/sam-wright-17b6ab6_shopify-seo-activity-7170336529146441729-JGDn/?utm_source=combined_share_message"}
+            ],
+            "I have created this role by listening carefully to the team to address their specific requirements in ways they may not have considered.",
+            "What started as internal software to assist the Blink SEO team evolved into a SaaS product: I created the system from the start with scalability in mind",
+            "Successfully weaned the whole team away from spreadsheets!",
+            "I have also completed various one-off data science and data analysis projects besides working on Macaroni."
+        ]
+    },
+    {
+        "role": "Data Science Researcher",
+        "company": "National Physical Laboratory",
+        "companyUrl": "https://www.npl.co.uk",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHHwmQiEqzvPw/company-logo_100_100/company-logo_100_100/0/1670336019590/national_physical_laboratory_logo?e=1740614400&v=beta&t=1TqPFOOwulpMgX5L4WLKAIK7OhUp2_Jpk2OPf8-CR98",
+        "startDate": "2015-09",
+        "endDate": "2021-02",
+        "description": "NPL provides world-leading measurement science, engineering and technology. As a doctoral student I was lucky to secure this industrial collaboration, supervised by Dr. Valerie Livina.",
+        "achievements": [
+            "I developed a novel technique to produce Early Warning Signals for tipping points in time series data.",
+            "Algorithms implemented in MatLab.",
+            "Three papers published in respective journals, as well as completing my Ph.D..",
+            "For this project I had to access, clean, mine and analyse large meteorological datasets.",
+            "The project also involved creating stochastic models of geophysical systems.",
+            "I presented my research at several international conferences, and also gave presentations for stake-holders at NPL."
+        ]
+    },
+    {
+        "role": "Associate Lecturer",
+        "company": "Sheffield Hallam University",
+        "companyUrl": "https://www.shu.ac.uk", 
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFZNIao4vU6Bw/company-logo_100_100/company-logo_100_100/0/1631312183748?e=1740614400&v=beta&t=JllpZySA9YWShLcya0thrtO5cfqukKSQZn0LmZ1I60o",
+        "startDate": "2017-09",
+        "endDate": "2020-02",
+        "achievements": [
+            "I taught classes in Maths and Computing from Foundation to Masters level.",
+            "Teaching commitments involved lecturing to large audiences, but also one-on-one tutorials (as well as planning, marking, etc.).",
+            "I taught, and enjoyed teaching, mathematics to non-mathematical students. E.g. Statistics for Masters Biology, Calculus for first-year engineers, Data Analysis Using Excel for Business students."
+        ]
+    }
+]
