@@ -3,8 +3,7 @@
         "role": "Data Scientist",
         "company": "Blink SEO",
         "companyUrl": "https://blinkseo.co.uk/pages/macaroni",
-        "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGXzxjV4sqgbw/company-logo_100_100/company-logo_100_100/0/1630529583461/blink_seo_logo?e=1740614400&v=beta&t=4drHAN0S5amR4tAYncxslaXeLDj0qHzC_mOsvIJ6Cmk",
-        "startDate": "2021-11",
+        "logoUrl": "/online-cv/images/blink_seo_logo.jpeg",
         "endDate": "2024-12",
         "description": "Blink helps ecommerce SMEs to increase their organic traffic. I was brought onto the team with the breif to \"improve processes using data\". I began by doing various one-off data analysis projects but quickly realised the need for a database, and software to automatically fetch data from various APIs (Google Analytics, Shopify, etc.), as well as a web scraper. With these set up, I began creating dashboards, then interactive apps using Retool, and now we have Macaroni Software.",
         "achievements": [
